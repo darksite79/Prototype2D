@@ -31,8 +31,8 @@ Está diseñado para enseñar las bases del desarrollo de videojuegos con Unity,
 
 <!-- Reemplaza estos enlaces con tus imágenes reales subidas al repositorio o a un servidor de imágenes -->
 
-![Pantalla principal](https://postimg.cc/239hRQxr)
-![Vista del Nivel](https://postimg.cc/V0vt0vmx)
+[![Pantalla principal](https://i.postimg.cc/gkmDh4XX/Start.jpg)](https://postimg.cc/239hRQxr)
+[![Vista del Nivel](https://i.postimg.cc/BbcByPyn/game1.jpg)](https://postimg.cc/V0vt0vmx)
 
 ---
 
@@ -42,7 +42,7 @@ Está diseñado para enseñar las bases del desarrollo de videojuegos con Unity,
 
 ```bash
 git clone https://github.com/darksite79/DrawFight.git
-
+```
 ### 🔧 Opción 2: Descargar archivo comprimido
-Ve a la sección de Releases
-Descarga el .zip del proyecto o el ejecutable si solo quieres jugar
+- Ve a la sección de Releases
+- Descarga el .zip del proyecto o el ejecutable si solo quieres jugar
