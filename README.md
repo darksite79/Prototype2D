@@ -41,8 +41,31 @@ Está diseñado para enseñar las bases del desarrollo de videojuegos con Unity,
 ### 🔧 Opción 1: Clonar el repositorio
 
 ```bash
-git clone https://github.com/darksite79/DrawFight.git
+git clone https://github.com/darksite79/Prototype2D.git
 ```
 ### 🔧 Opción 2: Descargar archivo comprimido
 - Ve a la sección de Releases
 - Descarga el .zip del proyecto o el ejecutable si solo quieres jugar
+
+## 📂 Estructura del Proyecto
+```bash
+Prototype2D/
+├── Assets/
+│   ├── Fonts/
+│   ├── Materials/
+│   ├── Prefabs/
+│   ├── Scenes/
+│   ├── Scripts/
+│   ├── Settings/
+│   ├── Sprites/
+│   ├── TextMesh Pro/
+├── ProjectSettings/
+├── Ejecutable/
+│   ├── Prototype2D.exe (versión jugable)
+├── README.md
+
+```
+## 🧠 Ideal para:
+* Talleres educativos de introducción a Unity
+* Personas que quieren aprender haciendo
+* Primeros pasos en el desarrollo de videojuegos 2D
